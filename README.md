@@ -1,2 +1,2 @@
 # Python-Automation
-This is a basic Python Aotomation program which takes the Salary data of a company before the covid era and after the covid era (Let's just say due to covid the      Salaries of the Emplyees had to be increased by 2 times )
+This is a basic Python automation program that compares the salary data of a company before and after the COVID-19 era. In this scenario, the program assumes that due to the impact of COVID-19, the salaries of the employees had to be increased by a factor of 2.
